@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Entity
 {
+
     internal class Department
     {
         //public int Id { get; set; }

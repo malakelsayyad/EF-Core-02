@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Demo.Configuration
-{
+{ 
     internal class EmployeeConfigurations : IEntityTypeConfiguration<Employee>
     {
         public void Configure(EntityTypeBuilder<Employee> E)

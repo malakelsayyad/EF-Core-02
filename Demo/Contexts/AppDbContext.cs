@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Demo.Contexts
-{
+{ 
     internal class AppDbContext : DbContext
     {
        
