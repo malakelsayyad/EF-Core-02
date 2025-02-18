@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Demo.Entity
 {
     internal class Student
+
     {
         //public int Id { get; set; }
         //public string Name { get; set; }

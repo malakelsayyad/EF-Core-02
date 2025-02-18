@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Entity
 {
+
     //EF Core : Supports 4 ways to map a class in DB [Table-View-Function]
     //1.By Convention [Default Behaviour]
     //2.Data Annotation [Set of attributes used for data validation]

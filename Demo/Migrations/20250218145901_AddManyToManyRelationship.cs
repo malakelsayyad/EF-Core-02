@@ -6,7 +6,7 @@ namespace Demo.Migrations
 {
     /// <inheritdoc />
     public partial class AddManyToManyRelationship : Migration
-    {
+    { 
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
